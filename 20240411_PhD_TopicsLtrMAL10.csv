@@ -1,0 +1,12 @@
+Number,Dominant_Topic,Category,Label,Keywords,N,Dec,%
+1,0,work,writing,"book, work, year, difficulty, paper, interest, copy, end, opinion, term",36,0.0732,7
+2,1,work,farming,"country, land, year, acre, farm, money, pound, wood, wheat, price",86,0.1748,17
+3,2,environment,settlements & links,"place, dollar, house, day, work, cent, town, board, river, business",21,0.0427,4
+4,3,social,correspondence,"letter, friend, time, kind, family, wife, health, child, winter, month",72,0.1463,15
+5,4,work,healthcare,"time, man, day, room, work, hospital, place, order, patient, money",30,0.061,6
+6,5,social,service,"school, number, door, place, teacher, gentleman, companion, service, meeting, pupil",29,0.0589,6
+7,6,social,nationhood-governance,"people, year, man, state, government, world, country, law, company, time",21,0.0427,4
+8,7,lifestyle,routine,"week, day, child, morning, evening, boy, baby, house, weather, today",148,0.3008,30
+9,8,social,events,"life, hand, heart, time, woman, night, trouble, mind, room, friend",30,0.061,6
+10,9,experiences,shipboard,"day, ship, body, water, air, month, vessel, sea, money, child",19,0.0386,4
+,,,,,492,,100
